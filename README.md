@@ -3,7 +3,7 @@
 Prediction of diabetes with a single decision tree and random forest is tested.
 The random forrest classifier achives an accuracy of about 95.6% on the test set.
 
-![Confusion matrix for random forest model on test data.](confmat.PNG) 
+![Confusion matrix for random forest model on test data.](confm.PNG) 
 
 ## Data source
 
